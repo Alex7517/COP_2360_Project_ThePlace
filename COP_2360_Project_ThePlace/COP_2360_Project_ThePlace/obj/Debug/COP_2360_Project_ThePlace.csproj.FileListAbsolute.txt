@@ -1,0 +1,14 @@
+C:\Dropbox\HCC\COP 2360\COP_2360_Project_ThePlace\COP_2360_Project_ThePlace\bin\Debug\COP_2360_Project_ThePlace.exe.config
+C:\Dropbox\HCC\COP 2360\COP_2360_Project_ThePlace\COP_2360_Project_ThePlace\bin\Debug\COP_2360_Project_ThePlace.exe
+C:\Dropbox\HCC\COP 2360\COP_2360_Project_ThePlace\COP_2360_Project_ThePlace\bin\Debug\COP_2360_Project_ThePlace.pdb
+C:\Dropbox\HCC\COP 2360\COP_2360_Project_ThePlace\COP_2360_Project_ThePlace\obj\Debug\COP_2360_Project_ThePlace.csproj.CoreCompileInputs.cache
+C:\Dropbox\HCC\COP 2360\COP_2360_Project_ThePlace\COP_2360_Project_ThePlace\obj\Debug\COP_2360_Project_ThePlace.exe
+C:\Dropbox\HCC\COP 2360\COP_2360_Project_ThePlace\COP_2360_Project_ThePlace\obj\Debug\COP_2360_Project_ThePlace.pdb
+C:\Dropbox\HCC\COP 2360\COP_2360_Project_ThePlace\COP_2360_Project_ThePlace\obj\Debug\COP_2360_Project_ThePlace.csprojResolveAssemblyReference.cache
+C:\Dropbox\HCC\COP 2360\COP_2360_Project_ThePlaceV2\COP_2360_Project_ThePlace\bin\Debug\COP_2360_Project_ThePlace.exe.config
+C:\Dropbox\HCC\COP 2360\COP_2360_Project_ThePlaceV2\COP_2360_Project_ThePlace\bin\Debug\COP_2360_Project_ThePlace.exe
+C:\Dropbox\HCC\COP 2360\COP_2360_Project_ThePlaceV2\COP_2360_Project_ThePlace\bin\Debug\COP_2360_Project_ThePlace.pdb
+C:\Dropbox\HCC\COP 2360\COP_2360_Project_ThePlaceV2\COP_2360_Project_ThePlace\obj\Debug\COP_2360_Project_ThePlace.csprojResolveAssemblyReference.cache
+C:\Dropbox\HCC\COP 2360\COP_2360_Project_ThePlaceV2\COP_2360_Project_ThePlace\obj\Debug\COP_2360_Project_ThePlace.csproj.CoreCompileInputs.cache
+C:\Dropbox\HCC\COP 2360\COP_2360_Project_ThePlaceV2\COP_2360_Project_ThePlace\obj\Debug\COP_2360_Project_ThePlace.exe
+C:\Dropbox\HCC\COP 2360\COP_2360_Project_ThePlaceV2\COP_2360_Project_ThePlace\obj\Debug\COP_2360_Project_ThePlace.pdb
